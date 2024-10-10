@@ -57,9 +57,9 @@ jobs:
           TZ: Europe/London
         run: |
           hugo \
+            --source "cyberarchive" \
             --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/cyberarchive"          
+            --minify
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
