@@ -1,0 +1,10 @@
+.DS_Store
+cyberarchive/node_modules
+cyberarchive/dist
+cyberarchive/tmp
+cyberarchive/public/
+cyberarchive/resources/_gen/
+
+hugo.exe
+hugo.linux
+hugo.darwin

@@ -1,0 +1,4 @@
+baseURL = 'https://www.cyberarchive.fyi/'
+languageCode = 'en-us'
+title = 'CyberArchive'
+theme = 'PaperModX'
