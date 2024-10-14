@@ -38,6 +38,8 @@ showToc: true
 * [Fofa.info](https://en.fofa.info/)
 * [Shodan.io](https://www.shodan.io/)
 * [Hunter.How](https://hunter.how/)
+* [Crt.sh](https://crt.sh/)
+
 
 ## Vulnerability Research
 
@@ -60,3 +62,13 @@ showToc: true
 * [Breach Aware](https://breachaware.com/)
 * [Snusbase](https://www.snusbase.com/)
 * [Dehashed](https://dehashed.com/)
+
+## Bug Bounties
+
+### Platforms
+
+* [Hacker One](https://hackerone.com)
+
+### Youtube Channels
+
+* [The Cyberboy](https://www.youtube.com/@the_cyb3rb0y/videos)
