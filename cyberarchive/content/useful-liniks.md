@@ -94,6 +94,9 @@ showToc: true
 
 * [Hacker One](https://hackerone.com)
 * [BugCrowd](https://www.bugcrowd.com/)
+* [Intigriti](https://www.intigriti.com/)
+* [Hackenproof](https://hackenproof.com/)
+* [YesWeHack](https://www.yeswehack.com/)
 
 ### Youtube Channels
 
