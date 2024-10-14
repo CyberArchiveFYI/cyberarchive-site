@@ -35,11 +35,26 @@ showToc: true
 
 ## Search Engines
 
+* [BeVigil](https://bevigil.com/osint-api)
+* [Binary Edge](https://binaryedge.io/)
+* [Buffer Overrun](https://tls.bufferover.run/)
+* [C99](http://api.c99.nl/api_overview)
 * [Censys](https://search.censys.io/)
+* [Chaos / Project Discovery](https://chaos.projectdiscovery.io/)
+* [DNS Repo](https://dnsrepo.noc.org/)
 * [Fofa.info](https://en.fofa.info/)
+* [FullHunt](https://fullhunt.io/)
+* [IntelligenceX](https://intelx.io)
+* [Quake 360](https://quake.360.net/quake/#/index)
+* [Robtex](https://www.robtex.com)
+* [Security Trails](https://securitytrails.com/)
 * [Shodan.io](https://www.shodan.io/)
+* [ThreatBook](https://x.threatbook.com/)
 * [Hunter.How](https://hunter.how/)
 * [Crt.sh](https://crt.sh/)
+* [SSL Mate Cert Search](https://sslmate.com/ct_search_api/)
+* [VirusTotal](https://www.virustotal.com/)
+* [WhoisXMLApi](https://www.whoisxmlapi.com/)
 
 
 ## Vulnerability Research
@@ -63,6 +78,11 @@ showToc: true
 * [Breach Aware](https://breachaware.com/)
 * [Snusbase](https://www.snusbase.com/)
 * [Dehashed](https://dehashed.com/)
+
+## Threat Intelligence
+
+* [DeepDark CTI](https://github.com/fastfire/deepdarkCTI)
+
 
 ## Bug Bounties
 
