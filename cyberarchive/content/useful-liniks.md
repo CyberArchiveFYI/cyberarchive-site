@@ -41,3 +41,8 @@ showToc: true
 * [Shikangsi.com Wiki](wiki.shikangsi.com)
     * [Translate link](https://wiki-shikangsi-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 
+## Data Breach Intelligence
+
+* [Breach Aware](https://breachaware.com/)
+* [Snusbase](https://www.snusbase.com/)
+* [Dehashed](https://dehashed.com/)
