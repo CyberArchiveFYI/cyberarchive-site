@@ -93,6 +93,7 @@ showToc: true
 ### Platforms
 
 * [Hacker One](https://hackerone.com)
+* [BugCrowd](https://www.bugcrowd.com/)
 
 ### Youtube Channels
 
