@@ -60,21 +60,21 @@ tocopen = false
     name = "Tags"
     url = "tags"
 
-#   [params.homeInfoParams]
-#   Title = "Hi there 👋"
-#   Content = "Welcome to my blog"
+    [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to the Cyber Archive"
 
-#   [[params.socialIcons]]
-#   name = "twitter"
-#   url = "https://twitter.com/"
+  # [[params.socialIcons]]
+  # name = "twitter"
+  # url = "https://twitter.com/"
 
-#   [[params.socialIcons]]
-#   name = "stackoverflow"
-#   url = "https://stackoverflow.com"
+  # [[params.socialIcons]]
+  # name = "stackoverflow"
+  # url = "https://stackoverflow.com"
 
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/Aidenwebb/CyberArchive.fyi"
+  # [[params.socialIcons]]
+  # name = "github"
+  # url = "https://github.com/Aidenwebb/CyberArchive.fyi"
 
 # [params.analytics.google]
 # SiteVerificationTag = "XYZabc"
@@ -123,8 +123,13 @@ url = "/tags/"
 weight = 20
 
 [[menu.main]]
-identifier = "FactBytes"
+identifier = "factbytes"
 name = "FactBytes"
 url = "/factbytes/"
 weight = 30
 
+[[menu.main]]
+identifier = "usefullinks"
+name = "Useful Links"
+url = "/useful_links/"
+weight = 40
