@@ -7,14 +7,22 @@ showToc: true
 
 ## Cybersecurity News
 
+* [BBC](https://www.bbc.co.uk/news/topics/cz4pr2gd85qt)
 * [Bleeping Computer](https://www.bleepingcomputer.com/)
+* [Cybersecurity News](https://cybersecuritynews.com/)
 * [Forbes](https://www.forbes.com/cybersecurity/)
+* [IT Security Guru](https://www.itsecurityguru.org/)
 * [MSSPAlert](https://www.msspalert.com/)
+* [NCSC](https://www.ncsc.gov.uk/section/keep-up-to-date/ncsc-news?q=&defaultTypes=news,information&sort=date%2Bdesc)
+* [Reuters](https://www.reuters.com/technology/cybersecurity/)
 * [SC Media](https://www.scworld.com/)
+* [Security Magazine](https://www.securitymagazine.com)
 * [Tech Radar](https://www.techradar.com/uk/pro/security)
 * [TechCrunch](https://techcrunch.com/category/security/)
+* [The Hacker News](https://thehackernews.com)
 * [The Register](https://www.theregister.com/security/)
 * [The Verge](https://www.theverge.com/cyber-security)
+* [Wired](https://www.wired.com/category/security/)
 
 ## LLMs
 
