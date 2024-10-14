@@ -10,6 +10,7 @@ showToc: true
 * [BBC](https://www.bbc.co.uk/news/topics/cz4pr2gd85qt)
 * [Bleeping Computer](https://www.bleepingcomputer.com/)
 * [Cybersecurity News](https://cybersecuritynews.com/)
+* [Dark Reading](https://www.darkreading.com/)
 * [Forbes](https://www.forbes.com/cybersecurity/)
 * [IT Security Guru](https://www.itsecurityguru.org/)
 * [MSSPAlert](https://www.msspalert.com/)
@@ -20,6 +21,7 @@ showToc: true
 * [Tech Radar](https://www.techradar.com/uk/pro/security)
 * [TechCrunch](https://techcrunch.com/category/security/)
 * [The Hacker News](https://thehackernews.com)
+* [The Record Media](https://therecord.media/)
 * [The Register](https://www.theregister.com/security/)
 * [The Verge](https://www.theverge.com/cyber-security)
 * [Wired](https://www.wired.com/category/security/)
@@ -36,6 +38,10 @@ showToc: true
 * [Fofa.info](https://en.fofa.info/)
 * [Shodan.io](https://www.shodan.io/)
 * [Hunter.How](https://hunter.how/)
+
+## Vulnerability Research
+
+* [ForeScout](https://www.forescout.com/research-labs-overview/)
 
 ## Vulnerability and Exploit Intelligence
 * [NIST NVD](https://nvd.nist.gov/)
