@@ -90,6 +90,9 @@ showToc: true
 
 ## Bug Bounties
 
+### Tools
+* [Google Dorking Tool](https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/)
+
 ### Platforms
 
 * [Hacker One](https://hackerone.com)
