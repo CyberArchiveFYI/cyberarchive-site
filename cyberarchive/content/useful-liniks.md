@@ -68,6 +68,10 @@ showToc: true
 * [Exploit DB](https://www.exploit-db.com/)
 * [SysDream](https://sysdream.com/category/le-lab/)
 * [PacketStorm](https://packetstormsecurity.com/)
+* [Can I Take Over](https://github.com/EdOverflow/can-i-take-over-xyz/blob/master/README.md)
+
+### Researcher Blogs
+* [Exploit LinuxSec](https://exploit.linuxsec.org/)
 
 ### Private Communities
 * [Shikangsi.com Wiki](wiki.shikangsi.com)
