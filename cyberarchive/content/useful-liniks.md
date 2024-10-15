@@ -148,6 +148,7 @@ showToc: true
 * [Bsides Conference Columbus](https://www.youtube.com/@bsidescolumbus4046)
 * [Bsides Conference Dublin](https://www.youtube.com/@securitybsidesdublin)
 * [Bsides Conference London](https://www.youtube.com/@SecuritybsidesOrgUk)
+* [Bsides Conference Luxembourg](https://www.youtube.com/@bsidesluxembourg9446)
 * [Bsides Conference Manchester](https://www.youtube.com/@bsidesmanchester5371)
 * [Bsides Conference San Antonio](https://www.youtube.com/@BSidesSATX)
 * [BSides Conference St Pete 2022](https://www.youtube.com/@BSidesStPete-2022)
