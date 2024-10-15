@@ -35,6 +35,7 @@ showToc: true
 
 ## Search Engines
 
+* [Curated list of Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
 * [BeVigil](https://bevigil.com/osint-api)
 * [Binary Edge](https://binaryedge.io/)
 * [Buffer Overrun](https://tls.bufferover.run/)
@@ -91,7 +92,35 @@ showToc: true
 ## Bug Bounties
 
 ### Tools
+
+#### Dorking
 * [Google Dorking Tool](https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/)
+
+#### Http Crawling
+
+* [Katana](https://github.com/projectdiscovery/katana)
+
+#### Http Parameter Discovery
+* [Arjun](https://github.com/s0md3v/Arjun)
+
+#### Subdomain Enumeration
+* [Amass](https://github.com/owasp-amass/amass)
+* [Asset Finder](https://github.com/tomnomnom/assetfinder)
+* [SubFinder](https://github.com/projectdiscovery/subfinder)
+* [n0kovo Subdomain Wordlist](https://github.com/n0kovo/n0kovo_subdomains)
+
+#### Subdomain Takeover scanning
+* [Subdominator](https://github.com/Stratus-Security/Subdominator)
+* [SubOver](https://github.com/Ice3man543/SubOver)
+* [Subzy](https://github.com/PentestPad/subzy)
+
+#### URL Fuzzing
+* [FFUF](https://github.com/ffuf/ffuf)
+
+#### Vulnerability Scanning
+
+* [Nuclei](https://github.com/projectdiscovery/nuclei)
+* [Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates)
 
 ### Platforms
 
