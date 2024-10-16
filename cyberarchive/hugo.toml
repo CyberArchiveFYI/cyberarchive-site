@@ -133,3 +133,9 @@ identifier = "usefullinks"
 name = "Useful Links"
 url = "/useful_links/"
 weight = 40
+
+[[menu.main]]
+identifier = "reports"
+name = "Reports"
+url = "/reports/"
+weight = 50
