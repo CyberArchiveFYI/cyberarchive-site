@@ -5,6 +5,9 @@ summary: 'Factbites and Statistics about Cybersecurity'
 ---
 
 ## Year 2024
+1. Microsoft customers are attacked over 600 million times per day. ([Microsoft][microsoft-2024-1], 2024)
+2. Microsoft have seen a 2.75x year-over-year increase in ransomware attacks, however a threefold decrease in ransomware attacks reaching decryption stage. ([Microsoft][microsoft-2024-1], 2024)
+3. Tech Scams have skyrocketed 400% since 2022. ([Microsoft][microsoft-2024-1], 2024)
 
 ## Year 2023
 
@@ -33,5 +36,6 @@ summary: 'Factbites and Statistics about Cybersecurity'
 [fbi-2020-1]: https://www.ic3.gov/Media/PDF/AnnualReport/2020_IC3Report.pdf
 [fbi-2020-2]: https://www.ic3.gov/Media/PDF/AnnualReport/2020_IC3Report.pdf
 [interestingengineering-2021-1]: https://interestingengineering.com/innovation/cyber-attacks-more-likely-to-bring-down-f-35-jets-than-missiles
+[microsoft-2024-1]: https://blogs.microsoft.com/on-the-issues/2024/10/15/escalating-cyber-threats-demand-stronger-global-defense-and-cooperation/
 [norton-2020-1]: https://us.norton.com/content/dam/norton/pdfs/reports/2021_nortonLifelock_cyber_safety_insights_report_global_results.pdf
 [roundrobin-2020-1]: https://www.roundrobintech.com/email-protection
