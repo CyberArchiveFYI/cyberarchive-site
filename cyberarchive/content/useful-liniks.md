@@ -33,6 +33,7 @@ showToc: true
 
 ## Education and Training
 * [Hack The Box](https://www.hackthebox.com/)
+* [HackTricks](https://book.hacktricks.xyz)
 
 ## Search Engines
 
