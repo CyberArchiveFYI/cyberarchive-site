@@ -5,15 +5,20 @@ summary: 'Factbites and Statistics about Cybersecurity'
 ---
 
 ## Year 2024
+
 1. Microsoft customers are attacked over 600 million times per day. ([Microsoft][microsoft-2024-1], 2024)
 2. Microsoft have seen a 2.75x year-over-year increase in ransomware attacks, however a threefold decrease in ransomware attacks reaching decryption stage. ([Microsoft][microsoft-2024-1], 2024)
 3. Tech Scams have skyrocketed 400% since 2022. ([Microsoft][microsoft-2024-1], 2024)
 
 ## Year 2023
 
+1. 37% of all traffic from threat actors is RDP related. ([Coalition Inc][coalition-2023-2])
+2. Businesses with RDP exposed to the internet are the most likely to experience a ransomware event. ([Coalition Inc][coalition-2023-1])
+
 ## Year 2022
 
 ## Year 2021
+
 1. Cyberattacks are more likely to bring down F-35 jets than missiles. ([Interesting Engineering][interestingengineering-2021-1], 2021)
 
 
@@ -31,6 +36,8 @@ summary: 'Factbites and Statistics about Cybersecurity'
 
 
 [checkpoint-2020-1]: https://blog.checkpoint.com/2021/05/12/the-new-ransomware-threat-triple-extortion/
+[coalition-2023-1]: https://www.coalitioninc.com/en-gb/blog/remote-desktop-protocol-risks
+[coalition-2023-2]: https://web.coalitioninc.com/rs/232-FOI-090/images/Coalition_Cyber-Threat-Index-2023.pdf?version=0
 [cybersecurityventures-2020-1]: https://cybersecurityventures.com/cybercrime-damages-6-trillion-by-2021/
 [cybersecurityventures-2020-2]: https://cybersecurityventures.com/healthcare-industry-to-spend-125-billion-on-cybersecurity-from-2020-to-2025/
 [fbi-2020-1]: https://www.ic3.gov/Media/PDF/AnnualReport/2020_IC3Report.pdf
