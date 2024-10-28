@@ -70,6 +70,11 @@ showToc: true
 
 * [ForeScout](https://www.forescout.com/research-labs-overview/)
 
+## Privacy
+
+* [Grabify](https://grabify.link)
+* [AmIUnique](https://amiunique.org/fingerprint)
+
 ## Vulnerability and Exploit Intelligence
 * [NIST NVD](https://nvd.nist.gov/)
 * [CVE Details](https://www.cvedetails.com/)
