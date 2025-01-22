@@ -32,6 +32,7 @@ jobs:
 
       - name: Set up Node
         uses: actions/setup-node@v4
+        working-directory: cyberarchive
         with:
           node-version: 18
           cache: npm
