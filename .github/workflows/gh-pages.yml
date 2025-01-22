@@ -1,5 +1,4 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Deploy Hugo site to Pages
+name: Deploy Docusaurus site to Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -26,25 +25,29 @@ jobs:
     name: Build Docusaurus
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out repository
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: actions/setup-node@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
           node-version: 18
-          cache: yarn
+          cache: npm
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
-          working-directory: cyberarchive
+        run: npm ci
+        working-directory: cyberarchive
+
       - name: Build website
-        run: yarn build
-          working-directory: cyberarchive
+        run: npm run build
+        working-directory: cyberarchive
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build
+          # Upload the Docusaurus build output
           path: cyberarchive/build
 
   deploy:
@@ -53,8 +56,8 @@ jobs:
 
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
-      pages: write # to deploy to Pages
-      id-token: write # to verify the deployment originates from an appropriate source
+      pages: write   # to deploy to Pages
+      id-token: write  # to verify the deployment origin
 
     # Deploy to the github-pages environment
     environment:
@@ -66,4 +69,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
