@@ -36,13 +36,16 @@ jobs:
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
+          working-directory: cyberarchive
       - name: Build website
         run: yarn build
+          working-directory: cyberarchive
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: build
+          path: cyberarchive/build
 
   deploy:
     name: Deploy to GitHub Pages
