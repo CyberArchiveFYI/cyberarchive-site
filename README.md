@@ -4,11 +4,9 @@ This website is an aggregate of Cited Cybersecurity Statistics and interesting a
 
 To set up
 
-Follow the [quickstart guide](https://gohugo.io/getting-started/quick-start/) to install hugo
+Install [Node.js](https://nodejs.org/en/download/)
 
 ```sh
 cd cyberarchive
-git submodule update --init --recursive # needed when you reclone your repo (submodules may not get cloned automatically)
-
-hugo serve
+npx docusaurus start
 ```
