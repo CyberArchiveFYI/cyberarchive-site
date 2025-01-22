@@ -247,7 +247,7 @@ showToc: true
 * [Simply Cyber / Gerald Auger](https://www.youtube.com/@SimplyCyber)
 * [Simply Cyber Daily Threat Brief](https://www.youtube.com/playlist?list=PL4Q-ttyNIRApsbLUpFXzrMnThZc_MCoHy)
 * [StationX](https://www.youtube.com/@StationxNet)
-* [STÖK]https://www.youtube.com/@STOKfredrik
+* [STÖK](https://www.youtube.com/@STOKfredrik)
 * [Techno Saviour](https://www.youtube.com/@TechnoSaviour)
 * [The Beer Farmers](https://www.youtube.com/@TheBeerFarmers)
 * [The Cyberboy](https://www.youtube.com/@the_cyb3rb0y)
