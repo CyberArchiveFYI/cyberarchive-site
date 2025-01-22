@@ -1,8 +1,8 @@
 ---
-title: 'Reports'
-url: '/reports/'
-summary: 'Cybersecurity Reports'
+sidebar_position: 1
 ---
+
+# Reports
 
 ## Year 2024
 

@@ -1,9 +1,8 @@
 ---
-title: 'Useful Links'
-url: '/useful_links/'
-summary: 'Useful Links'
-showToc: true
+sidebar_position: 1
 ---
+
+# Useful Links
 
 ## Cybersecurity News
 

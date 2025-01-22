@@ -1,8 +1,8 @@
 ---
-title: 'FactBytes'
-url: '/factbytes/'
-summary: 'Factbites and Statistics about Cybersecurity'
+sidebar_position: 1
 ---
+
+# Statistics
 
 ## Year 2024
 
