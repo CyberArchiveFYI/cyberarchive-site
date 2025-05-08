@@ -10,7 +10,6 @@ sidebar_position: 1
 * [Bleeping Computer](https://www.bleepingcomputer.com/)
 * [Cybersecurity News](https://cybersecuritynews.com/)
 * [Dark Reading](https://www.darkreading.com/)
-* [ifesa & Sicurezza]
 * [Forbes](https://www.forbes.com/cybersecurity/)
 * [IT Security Guru](https://www.itsecurityguru.org/)
 * [Malware.News](https://malware.news/)
