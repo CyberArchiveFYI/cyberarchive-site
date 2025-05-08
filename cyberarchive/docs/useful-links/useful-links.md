@@ -10,8 +10,10 @@ sidebar_position: 1
 * [Bleeping Computer](https://www.bleepingcomputer.com/)
 * [Cybersecurity News](https://cybersecuritynews.com/)
 * [Dark Reading](https://www.darkreading.com/)
+* [ifesa & Sicurezza]
 * [Forbes](https://www.forbes.com/cybersecurity/)
 * [IT Security Guru](https://www.itsecurityguru.org/)
+* [Malware.News](https://malware.news/)
 * [MSSPAlert](https://www.msspalert.com/)
 * [NCSC](https://www.ncsc.gov.uk/section/keep-up-to-date/ncsc-news?q=&defaultTypes=news,information&sort=date%2Bdesc)
 * [Reuters](https://www.reuters.com/technology/cybersecurity/)
@@ -24,6 +26,30 @@ sidebar_position: 1
 * [The Register](https://www.theregister.com/security/)
 * [The Verge](https://www.theverge.com/cyber-security)
 * [Wired](https://www.wired.com/category/security/)
+* [ZDNet](https://www.zdnet.com/)
+
+## Blogs
+
+* [BadCyber IT Security Weekend Catch Up](https://badcyber.com/)
+* [Daniel Miessler](https://danielmiessler.com/)
+* [Hexacorn](https://www.hexacorn.com/blog/)
+* [Krebs On Security](krebsonsecurity.com)
+* [Lab52](lab52.io/blog/)
+* [Modexp](https://modexp.wordpress.com/)
+
+## Newsletters
+
+* [The CyberSecurity Club](https://thecybersecurityclub.beehiiv.com/)
+* [TLDR Information Security](https://tldr.tech/infosec)
+* [Vulnerable U](https://vulnu.mattjay.com/)
+* [Last Week in Security](https://blog.badsectorlabs.com)
+* [This week in security](https://this.weekinsecurity.com/)
+* [Hive Five Newsletter](https://securib.ee/newsletter/)
+* [tl;dr sec Newsletter](https://tldrsec.com/)
+* [SANS Newsletters](https://www.sans.org/newsletters/)
+* [U.S. Department of Homeland Security](https://public.govdelivery.com/accounts/USDHS/subscriber/new)
+* [CyberWeekly](https://cyberweekly.substack.com/)
+* [Unsupervised Learning Community](https://ul.live/sitenl)
 
 ## LLMs
 
