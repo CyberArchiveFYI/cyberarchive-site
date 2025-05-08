@@ -32,8 +32,8 @@ sidebar_position: 1
 * [BadCyber IT Security Weekend Catch Up](https://badcyber.com/)
 * [Daniel Miessler](https://danielmiessler.com/)
 * [Hexacorn](https://www.hexacorn.com/blog/)
-* [Krebs On Security](krebsonsecurity.com)
-* [Lab52](lab52.io/blog/)
+* [Krebs On Security](https://krebsonsecurity.com/)
+* [Lab52](https://lab52.io/blog/)
 * [Modexp](https://modexp.wordpress.com/)
 
 ## Newsletters
